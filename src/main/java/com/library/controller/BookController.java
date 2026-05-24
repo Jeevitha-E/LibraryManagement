@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
-// @RestController means this class handles HTTP requests (from Postman or browser)
+// @RestController means this class handles HTTP requests 
 // @RequestMapping means all URLs here start with /api/books
 @RestController
 @RequestMapping("/api/books")

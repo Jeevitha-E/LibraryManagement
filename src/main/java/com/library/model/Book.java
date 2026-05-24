@@ -18,7 +18,7 @@ public class Book {
     private String author;  
     private String genre;   // e.g. Fiction, Science, History
 
-    // Default constructor - required by Hibernate
+    
     public Book() {}
 
     // Constructor with all fields
